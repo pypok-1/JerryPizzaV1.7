@@ -118,7 +118,7 @@ Whether you want a tried-and-true classic or a brand-new creation, Smart Recipe 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 <div align="center">
   <table>
@@ -177,7 +177,7 @@ graph LR
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <details>
 <summary><b>Click to expand full tech stack</b></summary>
